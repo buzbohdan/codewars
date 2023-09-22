@@ -1,2 +1,5 @@
-# codewars
-My solutions for challenges from the codewars.com
+# Codewars
+My solutions for challenges from [codewars.com][codewars]
+
+
+[codewars]: www.codewars.com
